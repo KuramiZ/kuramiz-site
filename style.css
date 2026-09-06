@@ -212,8 +212,8 @@ h1 {
 }
 
 .rec-thumb {
-  width: 78px;
-  height: 98px;
+  width: 88px;
+  height: 118px;
   object-fit: contain;
   border-radius: 2px;
   flex-shrink: 0;
